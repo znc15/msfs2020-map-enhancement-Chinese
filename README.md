@@ -5,7 +5,7 @@
 
 效果图
 
-[![photo](https://github.com/znc15/msfs2020-map-enhancement-Chinese/blob/13d547ed3c1cf6105daaf30804841459c6399d84/png/final.png?raw=true)](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/releases/)
+![photo](https://github.com/znc15/msfs2020-map-enhancement-Chinese/blob/13d547ed3c1cf6105daaf30804841459c6399d84/png/final.png?raw=true)
 > 效果图的版本可能不是当前最新的
 
 支持的MSFS2020-Map-Enhancement-Chinese版本: 
@@ -14,7 +14,7 @@
 
 ***
 
-  **下载将代表你对以下内容无任何异议**
+  **下载将代表你对以下内容无任何异议！**
 
 ### 快速导航
 [原版项目地址](https://github.com/derekhe/msfs2020-map-enhancement/releases/tag/v7.2.0) 
@@ -42,3 +42,20 @@
       7. 该库不承担由使用者造成的任何行为
       
       8. 该库的所有内容仅存在于GitHub
+
+***
+
+### 使用说明
+先关闭 MSFS2020-Map-Enhancement 软件！！！
+1. 下载 app.asar 文件，下载方法在上面的快速导航
+2. 右击 MSFS2020-Map-Enhancement 图标，选择打开文件所在位置 
+
+![photo](https://github.com/znc15/msfs2020-map-enhancement-Chinese/blob/b6afccd5c329865d76bbb72e9822234296bd6ef6/png/%E6%95%99%E7%A8%8B/1.png?raw=true) 
+
+3. 进入此界面 
+
+![photo](https://github.com/znc15/msfs2020-map-enhancement-Chinese/blob/b6afccd5c329865d76bbb72e9822234296bd6ef6/png/%E6%95%99%E7%A8%8B/2.png?raw=true) 
+
+4. 点击resources文件夹
+5. 然后把下载的app.asar文件复制进去
+6. 然后重启软件即可
