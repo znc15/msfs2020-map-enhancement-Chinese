@@ -1,0 +1,137 @@
+Visit 访问
+
+Completely reinstall this software 完全重新安装此软件
+
+Close any software that occupies 443 or 42098 port 关闭任何占用443或42098端口的软件
+
+Add this software into antivirus whitelist 将本软件加入杀毒软件白名单
+
+Run in administrator mode 以管理员模式运行
+
+Backend server start failed. You must fix this problem before you can use this software. Try the following and restart this application: 
+ 后端服务器启动失败。 您必须解决此问题才能使用此软件。 尝试以下操作并重新启动此应用程序：
+ 
+This license is blocked, please contact author. 此许可证已被禁止使用，请联系作者。
+
+This license is blocked 此许可证已被禁止使用
+
+This device is blocked, please contact author. 此设备已被禁止使用，请联系作者。
+
+Device is blocked 此设备已被禁止使用
+
+This version is too old. Please update to the latest version. All functions will be disabled. 
+ 该版本已经停止支持，在更新到最新版本之前，停止使用所有功能
+ 
+How to use this? 如何使用此功能
+
+You can change the color of the ground texture either on the world map or while you are flying. The color changes will take effect when new images are loaded.
+ 您可以在世界地图上或飞行时更改地面纹理的颜色，颜色更改将在加载新图像时生效。
+ 
+If you have enabled the “Rolling cache” feature in the game, you might not notice the difference. Please disable it to see the changes.
+ 如果您在游戏中启用了“滚动缓存”功能，您可能不会注意到其中的区别， 请禁用“滚动缓存”功能以查看更改。
+ 
+Current map:  当前地图：
+
+Red 红色
+
+Green 绿色
+
+Blue 蓝色
+
+Brightness 明亮程度
+
+Contrast 对比度
+
+Saturation 饱和度
+
+For Chinese users 对于中国用户
+
+Google Maps Server (Pro) provides tuned color and resolution. In some places, Google servers are blocked. You should set up a proxy first.
+ Google Maps Server (Pro) 提供经过调整的颜色和分辨率。在某些地方，谷歌服务器被封锁。您应该先设置代理。
+ 
+Server 1 has 4 load-balanced servers and the mod will randomly pick one to use. 
+ Google Maps Server 1 有4个负载平衡服务器，插件会随机选择一个使用。
+ 
+Server 2 is a backup of Server 1 and only has one server to use.  
+ Google Maps Server 2 是Google Maps Server 1 的备份，只有一台服务器可以使用。
+ 
+Apple Map satellite images. Please only use for entertainment purposes.
+ Apple Map 卫星图像，请仅用于娱乐目的。
+
+HighLOD is enabled by default. HighLOD 默认开启
+
+Mapbox provides better and newer images in some places. The Pro version doesn't require a token compared to the free version.
+ Mapbox 在某些地方提供了更好和更新的图像。与免费版相比，Pro 不需要令牌。
+
+Google Maps Server provides the best resolution when flying low and seems very up-to-date.
+ 谷歌地图服务器在低空飞行时提供最佳分辨率，而且看起来是最新的。
+ 
+The free version has the original color from Google Maps and the data may be older than the Pro version.
+ 免费版具有来自 Google 地图的原始颜色，数据可能比专业版旧。
+ 
+MSFS's Bing Map is quite old in the game. Selecting this will replace the Bing Map with the latest Bing Map
+ MSFS 的 Bing 地图在游戏中相当古老。 选择此项会将 Bing 地图替换为最新的 Bing 地图
+ 
+ArcGIS Server provides more natural color than Google Server in some areas, but it lacks high-resolution data when flying low. 
+ ArcGIS Server 在某些区域提供比 Google Server 更自然的颜色，但在低空飞行时缺乏高分辨率数据。
+ 
+Some areas have different satellite images in different resolutions, so you will see image changes when flying low.
+ 有些地区有不同分辨率的不同卫星图像，所以当你低空飞行时你会看到图像变化。
+
+ArcGIS Server does not need to use a proxy. ArcGIS Server 不需要代理
+
+Mapbox provides better and newer images in some places, please sign up a free key in
+ Mapbox 在某些地方提供了更好和更新的图像，请到官网注册免费密钥
+
+Mapbox access token provides 200,000 tiles for free, please consider using the Rolling Cache inside the game or enabling the Cache inside this mod.
+ Mapbox 访问令牌免费提供 200,000 个图块，请考虑在游戏中使用滚动缓存或在本模组中启用缓存。
+ 
+WARNING: There are several users who have told me that they get huge billing from Mapbox. Please note that this app consumes images very quickly, especially when HighLOD is turned on.
+ 注意！有部分用户告诉我他们从 Mapbox 获得了巨额账单。请注意，此应用程序消耗图像的速度非常快，尤其是在打开 HighLOD 时。
+ 
+Start MSFS on mod start 在插件启动时启动 MSFS
+
+When enabled, the image server loads 4 images from the next LOD level. For example, when MSFS2020 requests images from level 19, the image server loads 4 images from level 19 and merges them. The image sent to MSFS2020 is a 512*512 image compared to the original 256*256 image.
+ 启用后，图像服务器从下一个 LOD 级别加载 4 个图像。例如，当MSFS2020从19级请求图像时，图像服务器从19级加载4张图像并合并它们。 与原始 256*256 图像相比，发送到 MSFS2020 的图像是 512*512 图像。（意思就是图更加高清）
+ 
+It is recommended to enable cache to increase loading speed and save bandwidth. 建议启用缓存以提高加载速度并节省流量。
+
+Start Options 启动选项
+
+Go to tray when close application 关闭应用程序时，最小化到托盘
+
+Game Store 游戏商店版本
+
+Go to tray after start 启动后自动转到托盘
+
+Map options 地图设置
+
+Although this can provide higher resolution and improve image quality, loading speed may slow because 4x images need to be loaded.
+ 虽然这可以提供更高的分辨率并提高图像质量，但加载速度可能会变慢，因为需要加载 4x 图像。
+ 
+High LOD Enabled High LOD 开启
+
+Mapbox provides better and newer images in some places. Please sign up for a free key at
+ Mapbox 在某些地方提供了更好和更新的图像。 请点击链接注册免费密钥
+ 
+and input it below. 并填入
+
+Mapbox access token only provides 200,000 tiles for free and can be used up easily. Some people have already received bills of over $200 from Mapbox. Please monitor your usage carefully.
+ Mapbox access token 只免费提供 200,000个图片，很容易用完。 有些人已经从 Mapbox 收到了超过200美元的账单。 请仔细监控您的使用情况。
+ 
+Auto start mod 自动开启插件
+
+Cache Options 缓存设置
+
+The cache is used to speed up satellite image loading when MSFS2020's Rolling Cache is disabled. MSFS2020's Rolling Cache may cause issues when switching maps.
+ 插件缓存用于在禁用MSFS2020里的滚动缓存时加速卫星图像加载， MSFS2020的滚动缓存可能会导致切换地图时出现问题。
+ 
+Rolling Cache can be turned on while the mod's cache is on if you stick to one server provider.
+ 如果您一直在使用一个地图服务器，则可以在插件的缓存打开时打开MSFS2020的滚动缓存。
+ 
+The cache file can't be set to the rolling game file; they are different.
+ 缓存文件不能设置为滚动游戏文件，这两个文件是不同的。
+ 
+Cache Enabled 缓存开启
+
+Path 路径
