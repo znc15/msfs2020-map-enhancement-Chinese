@@ -10,7 +10,9 @@
 
 支持的MSFS2020-Map-Enhancement-Chinese版本: 
 
-[7.2.0](https://github.com/derekhe/msfs2020-map-enhancement/releases/tag/v7.2.0)
+[7.2.0](https://github.com/derekhe/msfs2020-map-enhancement/releases/tag/v7.2.0) [未汉化完全] 
+
+[7.2.1](https://github.com/derekhe/msfs2020-map-enhancement/releases/tag/v7.2.1) [已经汉化完毕] 
 
 ***
 
