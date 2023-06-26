@@ -47,13 +47,13 @@ Saturation 饱和度
 For Chinese users 对于中国用户
 
 Google Maps Server (Pro) provides tuned color and resolution. In some places, Google servers are blocked. You should set up a proxy first.
- Google Maps Server (Pro) 提供经过调整的颜色和分辨率。在某些地方，谷歌服务器被封锁。您应该先设置代理。
+ Google Maps Server (Pro) 提供经过调整的颜色和分辨率。在某些地方，谷歌服务器不能访问，您应该先设置代理。
  
 Server 1 has 4 load-balanced servers and the mod will randomly pick one to use. 
  Google Maps Server 1 有4个负载平衡服务器，插件会随机选择一个使用。
  
 Server 2 is a backup of Server 1 and only has one server to use.  
- Google Maps Server 2 是Google Maps Server 1 的备份，只有一台服务器可以使用。
+ Google Maps Server 2 是 Google Maps Server 1 的备份，只有一台服务器可以使用。
  
 Apple Map satellite images. Please only use for entertainment purposes.
  Apple Map 卫星图像，请仅用于娱乐目的。
@@ -68,6 +68,9 @@ Google Maps Server provides the best resolution when flying low and seems very u
  
 The free version has the original color from Google Maps and the data may be older than the Pro version.
  免费版具有来自 Google 地图的原始颜色，数据可能比专业版旧。
+ 
+In some places, Google servers are blocked. You should set up a proxy first.
+ 在某些地方，谷歌服务器不能访问，您应该先设置代理。
  
 MSFS's Bing Map is quite old in the game. Selecting this will replace the Bing Map with the latest Bing Map
  MSFS 的 Bing 地图在游戏中相当古老。 选择此项会将 Bing 地图替换为最新的 Bing 地图
@@ -104,7 +107,7 @@ Go to tray when close application 关闭应用程序时，最小化到托盘
 
 Game Store 游戏商店版本
 
-Go to tray after start 启动后自动转到托盘
+Go to tray after start 启动后自动转到系统托盘
 
 Map options 地图设置
 
@@ -157,6 +160,8 @@ when the limitation is reached the application will stop putting new content in.
  当达到限制时，应用程序将停止添加新内容。
  
 Proxy Settings 代理设置
+
+same as 例如
 
 If you need a proxy to access Google, please fill in the proxy address in the format http://ip:port or socks5://ip:port. Leave it blank if you don't need a proxy to access Google.
  如果您需要代理访问Google，请填写代理地址，格式为http://ip:port 或socks5://ip:port。如果您不需要代理来访问 Google，请将其留空。
@@ -369,3 +374,11 @@ Total data 总数据大小
 Cache Size 缓存大小
 
 Settings 设置
+
+Detail:  细节：
+
+国外地图需要在Select mixed map中选择一个国外源，当从国内飞国外时会自动切换。
+ 国外地图需要在选择混合地图中选择一个国外源，当从国内飞国外时会自动切换。
+ 
+2021年中国超清地图
+ 中国定制超清地图2021年最新地图
