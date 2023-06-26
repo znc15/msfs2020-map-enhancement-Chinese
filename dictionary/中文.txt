@@ -9,7 +9,7 @@ Add this software into antivirus whitelist 将本软件加入杀毒软件白名�
 Run in administrator mode 以管理员模式运行
 
 Backend server start failed. You must fix this problem before you can use this software. Try the following and restart this application: 
- 后端服务器启动失败。 您必须解决此问题才能使用此软件。 尝试以下操作并重新启动此应用程序：
+ 后端服务器启动失败, 您必须解决此问题才能使用此软件, 尝试以下操作并重新启动此应用程序：
  
 This license is blocked, please contact author. 此许可证已被禁止使用，请联系作者。
 
@@ -58,7 +58,7 @@ Server 2 is a backup of Server 1 and only has one server to use.
 Apple Map satellite images. Please only use for entertainment purposes.
  Apple Map 卫星图像，请仅用于娱乐目的。
 
-HighLOD is enabled by default. HighLOD 默认开启
+HighLOD is enabled by default. HighLOD 默认开启。
 
 Mapbox provides better and newer images in some places. The Pro version doesn't require a token compared to the free version.
  Mapbox 在某些地方提供了更好和更新的图像。与免费版相比，Pro 不需要令牌。
@@ -78,10 +78,12 @@ ArcGIS Server provides more natural color than Google Server in some areas, but 
 Some areas have different satellite images in different resolutions, so you will see image changes when flying low.
  有些地区有不同分辨率的不同卫星图像，所以当你低空飞行时你会看到图像变化。
 
-ArcGIS Server does not need to use a proxy. ArcGIS Server 不需要代理
+ArcGIS Server does not need to use a proxy. ArcGIS Server 不需要代理。
 
 Mapbox provides better and newer images in some places, please sign up a free key in
  Mapbox 在某些地方提供了更好和更新的图像，请到官网注册免费密钥
+
+and input it in config. 然后填入设置的Mapbox选项
 
 Mapbox access token provides 200,000 tiles for free, please consider using the Rolling Cache inside the game or enabling the Cache inside this mod.
  Mapbox 访问令牌免费提供 200,000 个图块，请考虑在游戏中使用滚动缓存或在本模组中启用缓存。
@@ -117,11 +119,11 @@ Mapbox provides better and newer images in some places. Please sign up for a fre
 and input it below. 并填入
 
 Mapbox access token only provides 200,000 tiles for free and can be used up easily. Some people have already received bills of over $200 from Mapbox. Please monitor your usage carefully.
- Mapbox access token 只免费提供 200,000个图片，很容易用完。 有些人已经从 Mapbox 收到了超过200美元的账单。 请仔细监控您的使用情况。
+ Mapbox access token 只免费提供 200,000个图片，很容易用完。有些人已经从 Mapbox 收到了超过200美元的账单，请仔细监控您的使用情况。
  
 Auto start mod 自动开启插件
 
-Cache Options 缓存设置
+Cache options 缓存设置
 
 The cache is used to speed up satellite image loading when MSFS2020's Rolling Cache is disabled. MSFS2020's Rolling Cache may cause issues when switching maps.
  插件缓存用于在禁用MSFS2020里的滚动缓存时加速卫星图像加载， MSFS2020的滚动缓存可能会导致切换地图时出现问题。
@@ -135,3 +137,235 @@ The cache file can't be set to the rolling game file; they are different.
 Cache Enabled 缓存开启
 
 Path 路径
+
+Choose cache file 选择缓存文件
+
+Use default location 使用默认路径
+
+Clearing cache 清除缓存
+
+Please wait a while 请等待
+
+Clean cache failed. If the file is locked you can try to close this application and delete the file.
+ 清理缓存失败。如果文件被锁定，您可以尝试关闭此应用程序并删除该文件。
+ 
+Cache deleted 缓存已删除
+
+Cache file size limit GB (0 means unlimited) 缓存文件大小限制 GB（0 表示无限制）
+
+when the limitation is reached the application will stop putting new content in.
+ 当达到限制时，应用程序将停止添加新内容。
+ 
+Proxy Settings 代理设置
+
+If you need a proxy to access Google, please fill in the proxy address in the format http://ip:port or socks5://ip:port. Leave it blank if you don't need a proxy to access Google.
+ 如果您需要代理访问Google，请填写代理地址，格式为http://ip:port 或socks5://ip:port。如果您不需要代理来访问 Google，请将其留空。
+ 
+HTTP Proxy or Socks5 Proxy HTTP 代理或 Socks5 代理
+
+Proxy test started 代理测试开始
+
+Please wait several seconds 请等待几秒钟
+
+Proxy test passed 代理测试通过
+
+Proxy test failed 代理测试失败
+
+Test Proxy 测试代理状态
+
+Network Setting 网络设置
+
+Network profile 网络概况
+
+This is the default network configuration that was used before version 7.1.3. It is generally more stable and reliable.
+ 这是 7.1.3 版本之前使用的默认网络配置。 它通常更加稳定和可靠。
+ 
+This is a new network configuration that has been fine-tuned for better performance.
+ 这是一种新的网络配置，经过微调以获得更好的性能。
+ 
+If you encounter any network problems, such as getting stuck on the loading screen, slow game loading speed, or ground texture not loading properly, please try switching the network profile. The change will take effect immediately.
+ 如果您遇到任何网络问题，例如加载画面卡住、游戏加载速度慢或地面纹理无法正常加载，请尝试切换网络配置文件。更改将立即生效。
+ 
+Privacy 隐私条款
+
+To help me get enough data to improve this application, please let it enabled. If you have any concern, you can turn it off.
+ 为了帮助我获得足够的数据来改进此应用程序，请启用它。如果您有任何疑问或者担心，可以将其关闭。
+ 
+Allow collecting anonymous logs to remote server 允许收集匿名日志到远程服务器
+
+Update channel 版本选择
+
+The application is stable. Choosing this version will only get you the stable version.
+ 应用处于稳定版，选择此版本只会为您提供稳定版本。
+ 
+means the application works, but may have some bugs. 表示应用程序可以运行，但可能存在一些错误。
+
+means the application is not stable and is in active development. 表示应用程序不稳定并且正在积极开发中。
+
+Latest stable version 最新稳定版本
+
+Reset to default 重置设置为默认设置
+
+License 授权
+
+Please select a valid license file. 请选择有效的授权文件。
+
+Open license file failed 打开授权文件失败
+
+Buy a license 购买授权
+
+Name 购买用户名
+
+to generate a new one. 去重新生成一个授权文件
+
+If you changed your hardware or reinstalled system, please follow 如果您更改了硬件或重新安装了系统，请按照
+
+Copy device id 复制设备ID
+
+Device Id 设备ID
+
+Clear license file failed 清除授权文件失败
+
+Error response: 错误：
+
+Open license 选择授权文件
+
+Clear license 清除授权
+
+No license 无授权
+
+Email 邮箱
+
+Validate to 授权有效期
+
+Map Enhancement MSFS2020 地图增强器
+
+Photo by 照片拍摄于：
+
+Reload 重新加载
+
+For Chinese users 对于中国用户
+
+to purchase a license 购买许可证
+
+This map server requires a license. Please activate your license first. 该地图需要Pro 授权，请点击授权进行购买
+
+Need license 需要授权
+
+Software is blocked 软件被锁定
+
+Please download latest version or contact author for help 请下载最新版本或联系作者寻求帮助
+
+to retry 重试
+
+Please restart the app or press 请重新启动应用程序或按
+
+Also, please check if any application is occupying ports 443 or 42098. The app must be running in administrator mode.
+ 另外，请检查是否有任何应用程序占用了443或42098端口，该应用程序必须在管理员模式下运行。
+ 
+Create a new hosts file 选择新的Host文件
+
+Disable any global proxies 禁用所有全局代理
+
+Image server test failed 地图服务器测试失败
+
+If you are using a proxy to connect to the remote server, please ensure that the proxy is working. 
+ 如果您使用代理连接远程服务器，请确保代理正常工作。
+ 
+Please also visit 还请访问
+
+Turn off your antivirus and restart your computer. 关闭杀毒软件并重新启动计算机。
+
+Run as administrator. 以管理员身份运行。
+
+Unable to patch hosts file. Please try:  无法修补Host文， 请尝试：
+
+Apply hosts change failed 应用主机更改失败
+
+Check if any tools inside your antivirus are protecting your system 检查杀毒软件中的任何工具是否正在保护您的系统
+
+Try adding this mod to the whitelist 尝试将此插件添加到白名单
+
+Try turning off your antivirus and restarting your computer 尝试关闭杀毒软件并重新启动计算机
+
+Can't install certificate, please try: 无法安装证书，请尝试：
+
+Install certificate error 安装证书错误
+
+Please switch to a different server. Otherwise, MSFS2020 will fail to load. 请使用不同的服务器。否则，MSFS2020将无法加载。
+
+Unable to access remote image server 无法访问远程地图服务器
+
+Select a map 选择一个地图
+
+Please wait a moment and try again. 请稍等片刻，然后重试。
+
+Backend server is starting 后端服务器正在启动
+
+Backend server start failed 后端服务器启动失败
+
+MS server override is not working MSFS2020 地图覆盖不起作用
+
+Please try: 请尝试：
+
+Disable any game accelerator 禁用任何游戏加速器
+
+in your browser. You may be blocked by Google due to a large number of requests.  
+ 在您的浏览器中。 由于大量请求，您可能会被 Google 屏蔽。
+ 
+If you are using Google Maps, please ensure that you can open 如果您使用的是Google地图，请确保您可以打开
+
+Unable to access remote image server 无法访问远程图像服务器
+
+Check if any tools inside your antivirus are protecting your system. 检查杀毒软件中是否有任何工具正在保护您的系统。
+
+For more information, please visit the 欲了解更多信息，请访问
+
+Add this mod into white list. 将此插件添加到白名单中。
+
+for more information. 了解更多信息。
+
+Reset 重置
+
+Select a mixed map 选择混合地图
+
+Start 开始
+
+Start（name）首页
+
+Note 关于
+
+Please first visit 请先访问
+
+for common issues. Most issues are explained and can be solved there. 对于常见问题。 大多数问题都可以在那里得到解释和解决。
+
+If you still can't fix it or have other issues, please provide this information and also log file for me and raise an issue:
+ 如果您仍然无法修复它或遇到其他问题，请为开发者提供此信息和日志文件并提出问题：
+  
+Create a new issue 新建一个问题
+
+Color（name）颜色
+
+License （name）授权
+
+Help （name）帮助
+
+Loaded Images 加载的地图图片
+
+Current Image 当前图像
+
+Image From Cache 来自缓存的图像
+
+Image server error 地图服务器错误
+
+Restore hosts file failed 恢复Host文件失败
+
+Normal LOD 正常LOD
+
+High LOD 高LOD
+
+Total data 总数据大小
+
+Cache Size 缓存大小
+
+Settings 设置
