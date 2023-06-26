@@ -14,12 +14,14 @@
 
 [7.2.1](https://github.com/derekhe/msfs2020-map-enhancement/releases/tag/v7.2.1) [已经汉化完毕] 
 
+[7.2.2](https://github.com/derekhe/msfs2020-map-enhancement/releases/tag/v7.2.2) [已经汉化完毕] 
+
 ***
 
   **下载将代表你对以下内容无任何异议！**
 
 ### 快速导航
-[原版项目地址](https://github.com/derekhe/msfs2020-map-enhancement/releases/tag/v7.2.0) 
+[原版项目地址](https://github.com/derekhe/msfs2020-map-enhancement/) 
 
 [原版国内下载地址](https://gh.ddlc.top/https://github.com/derekhe/msfs2020-map-enhancement/releases/download/v7.2.0/MSFS2020-Map-Enhancement-Setup-7.2.0.exe) 
 
