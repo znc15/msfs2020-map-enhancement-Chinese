@@ -5,12 +5,14 @@
 
 效果图
 
-![photo](https://github.com/znc15/msfs2020-map-enhancement-Chinese/blob/13d547ed3c1cf6105daaf30804841459c6399d84/png/final.png?raw=true)
+![photo](https://github.com/znc15/msfs2020-map-enhancement-Chinese/blob/3b13a5ec501b449d178c1ff4712107c8816cb978/png/final.png?raw=true)
 > 效果图的版本可能不是当前最新的
 
 支持的MSFS2020-Map-Enhancement-Chinese版本: 
 
-[7.2.0](https://github.com/derekhe/msfs2020-map-enhancement/releases/tag/v7.2.0)
+[7.2.0](https://github.com/derekhe/msfs2020-map-enhancement/releases/tag/v7.2.0) [未汉化完全] 
+
+[7.2.1](https://github.com/derekhe/msfs2020-map-enhancement/releases/tag/v7.2.1) [已经汉化完毕] 
 
 ***
 
