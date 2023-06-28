@@ -61,7 +61,7 @@ Apple Map satellite images. Please only use for entertainment purposes.
 HighLOD is enabled by default. HighLOD 默认开启。
 
 Mapbox provides better and newer images in some places. The Pro version doesn't require a token compared to the free version.
- Mapbox 在某些地方提供了更好和更新的图像。与免费版相比，Pro 不需要令牌。
+ Mapbox 在某些地方提供了更好和更新的图像, 与免费版相比, Pro 不需要令牌。
 
 Google Maps Server provides the best resolution when flying low and seems very up-to-date.
  谷歌地图服务器在低空飞行时提供最佳分辨率，而且看起来是最新的。
@@ -99,7 +99,8 @@ Start MSFS on mod start 在插件启动时启动 MSFS
 When enabled, the image server loads 4 images from the next LOD level. For example, when MSFS2020 requests images from level 19, the image server loads 4 images from level 19 and merges them. The image sent to MSFS2020 is a 512*512 image compared to the original 256*256 image.
  启用后，图像服务器从下一个 LOD 级别加载 4 个图像。例如，当MSFS2020从19级请求图像时，图像服务器从19级加载4张图像并合并它们。 与原始 256*256 图像相比，发送到 MSFS2020 的图像是 512*512 图像。（意思就是图更加高清）
  
-It is recommended to enable cache to increase loading speed and save bandwidth. 建议启用缓存以提高加载速度并节省流量。
+It is recommended to enable cache to increase loading speed and save bandwidth. 
+ 建议启用缓存以提高加载速度并节省流量。
 
 Start Options 启动选项
 
@@ -316,11 +317,9 @@ Please try: 请尝试：
 Disable any game accelerator 禁用任何游戏加速器
 
 in your browser. You may be blocked by Google due to a large number of requests.  
- 在您的浏览器中。 由于大量请求，您可能会被 Google 屏蔽。
+ 在您的浏览器中, 由于大量请求，您可能会被 Google 屏蔽。
  
-If you are using Google Maps, please ensure that you can open 如果您使用的是Google地图，请确保您可以打开
-
-Unable to access remote image server 无法访问远程图像服务器
+If you are using Google Maps, please ensure that you can open 如果您使用的是Google地图，请确保您可以打开地图
 
 Check if any tools inside your antivirus are protecting your system. 检查杀毒软件中是否有任何工具正在保护您的系统。
 
@@ -375,7 +374,7 @@ Cache Size 缓存大小
 
 Settings 设置
 
-Detail:  细节：
+Detail:  详细：
 
 国外地图需要在Select mixed map中选择一个国外源，当从国内飞国外时会自动切换。
  国外地图需要在选择混合地图中选择一个国外源，当从国内飞国外时会自动切换。
