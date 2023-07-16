@@ -182,6 +182,8 @@ with open (file, 'r+' , encoding='utf-8') as f1:
     pattern178 = r'(children:"Alpha version")'
     pattern179 = r'(children:"Beta version")'
     pattern180 = r'(children:"MS Store")'
+    pattern181 = r'(When enable this option, the image server will load HD images when you are flying. This will provide better loading speed.)'
+    pattern182 = r'(Load High LOD images only when flying)'
     text5 = re.sub(pattern1,'children:"完全重新安装此软件"',text5)
     text5 = re.sub(pattern2,'关闭任何占用443或42098端口的软件',text5)
     text5 = re.sub(pattern3,'将本软件加入杀毒软件白名单',text5)
@@ -362,5 +364,7 @@ with open (file, 'r+' , encoding='utf-8') as f1:
     text5 = re.sub(pattern178,'children:"Alpha 版本"',text5)
     text5 = re.sub(pattern179,'children:"Beta 版本"',text5)
     text5 = re.sub(pattern180,'children:"微软商店（Xbox）"',text5)
+    text5 = re.sub(pattern181,'children:"启用此选项后，替换插件将在您飞行时加载高清图像。 这将提供更好的加载速度。"',text5)
+    text5 = re.sub(pattern182,'children:"仅在飞行时加载高 LOD 图像"',text5)
     with open (file,'w',encoding='utf-8') as f2:
         f2.write(text5)

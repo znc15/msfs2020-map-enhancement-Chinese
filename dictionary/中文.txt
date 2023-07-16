@@ -381,3 +381,9 @@ Detail:  详细：
  
 2021年中国超清地图
  中国定制超清地图2021年最新地图
+
+When enable this option, the image server will load HD images when you are flying. This will provide better loading speed.
+ 启用此选项后，替换插件将在您飞行时加载高清图像。 这将提供更好的加载速度。
+
+Load High LOD images only when flying
+ 仅在飞行时加载高 LOD 图像
