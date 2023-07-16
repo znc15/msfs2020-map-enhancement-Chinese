@@ -1,1 +1,0 @@
-{"version":3,"file":"style.css","mappings":"AAAA,UAEE,wBADA,yBAEA","sources":["webpack://msfs2020-map-enhancement/./src/renderer/components/TitleBar.css"],"sourcesContent":[".titlebar {\n  -webkit-user-select: none;\n  -webkit-app-region: drag;\n  user-select: none;\n}\n"],"names":[],"sourceRoot":""}
