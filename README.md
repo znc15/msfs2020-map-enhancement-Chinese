@@ -5,7 +5,8 @@
 
 效果图
 
-![photo](https://github.com/znc15/msfs2020-map-enhancement-Chinese/blob/3b13a5ec501b449d178c1ff4712107c8816cb978/png/final.png?raw=true)
+![photo](https://github.com/znc15/msfs2020-map-enhancement-Chinese/blob/3b13a5ec501b449d178c1ff4712107c8816cb978/png/final.png?raw=true) 
+![photo](https://github.com/znc15/msfs2020-map-enhancement-Chinese/blob/3b13a5ec501b449d178c1ff4712107c8816cb978/png/final2.png?raw=true) 
 > 效果图的版本可能不是当前最新的
 
 支持的MSFS2020-Map-Enhancement-Chinese版本: 
@@ -18,6 +19,8 @@
 
 [7.2.3](https://github.com/derekhe/msfs2020-map-enhancement/releases/tag/v7.2.3) [已经汉化完毕] 
 
+[7.3.0](https://github.com/derekhe/msfs2020-map-enhancement/releases/tag/v7.3.0) [已经汉化完毕] 
+
 ***
 
   **下载将代表你对以下内容无任何异议！**
@@ -25,9 +28,9 @@
 ### 快速导航
 [原版项目地址](https://github.com/derekhe/msfs2020-map-enhancement/) 
 
-[原版国内下载地址](https://gh.ddlc.top/https://github.com/derekhe/msfs2020-map-enhancement/releases/download/v7.2.3/MSFS2020-Map-Enhancement-Setup-7.2.3.exe) 
+[原版国内下载地址](https://gh.ddlc.top/https://github.com/derekhe/msfs2020-map-enhancement/releases/download/v7.3.0/MSFS2020-Map-Enhancement-Setup-7.3.0.exe) 
 
-[汉化国内下载地址](https://gh.con.sh/https://github.com/znc15/msfs2020-map-enhancement-Chinese/releases/download/7.2.3/app.asar) 
+[汉化国内下载地址](https://gh.con.sh/https://github.com/znc15/msfs2020-map-enhancement-Chinese/releases/download/7.3.0/app.asar) 
 
 [汉化国外下载地址](https://github.com/znc15/msfs2020-map-enhancement-Chinese/releases)
 
