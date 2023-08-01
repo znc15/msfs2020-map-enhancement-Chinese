@@ -6,7 +6,7 @@
 效果图
 
 ![photo](https://github.com/znc15/msfs2020-map-enhancement-Chinese/blob/3b13a5ec501b449d178c1ff4712107c8816cb978/png/final.png?raw=true) 
-![photo](https://github.com/znc15/msfs2020-map-enhancement-Chinese/blob/3b13a5ec501b449d178c1ff4712107c8816cb978/png/final2.png?raw=true) 
+![photo](https://github.com/znc15/msfs2020-map-enhancement-Chinese/blob/c7fe79e6d8d97aaf6bc85c1f9df26602b9bec7e6/png/final2.png?raw=true) 
 > 效果图的版本可能不是当前最新的
 
 支持的MSFS2020-Map-Enhancement-Chinese版本: 
