@@ -155,7 +155,8 @@ Clean cache failed. If the file is locked you can try to close this application 
  
 Cache deleted 缓存已删除
 
-Cache file size limit GB (0 means unlimited) 缓存文件大小限制 GB（0 表示无限制）
+Cache file size limit GB (0 means unlimited) 
+ 缓存文件大小限制 GB（0 表示无限制）
 
 when the limitation is reached the application will stop putting new content in.
  当达到限制时，应用程序将停止添加新内容。
@@ -346,7 +347,8 @@ for common issues. Most issues are explained and can be solved there. 对于常�
 If you still can't fix it or have other issues, please provide this information and also log file for me and raise an issue:
  如果您仍然无法修复它或遇到其他问题，请为开发者提供此信息和日志文件并提出问题：
   
-Create a new issue 新建一个问题
+Create a new issue 
+ 新建一个问题
 
 Color（name）颜色
 
@@ -387,3 +389,30 @@ When enable this option, the image server will load HD images when you are flyin
 
 Load High LOD images only when flying
  仅在飞行时加载高 LOD 图像
+
+Hybrid map is a mix of satellite images where it fits best, maps will automatically change during the fly. For example, use bing maps in Greenland, mapbox pro in Iceland and China HD 2022 for China, ArcGIS for ALASKA. This feature is under development and welcome your feedback.
+ 混合地图是在飞行过程中自动选择适合该地区的地图服务器。例如，在格陵兰岛使用 Bing 地图，在冰岛使用 Mapbox pro，在中国使用 China HD 2022，在阿拉斯加使用 ArcGIS。该功能正在开发中，欢迎您的反馈。
+
+Select a fallback map when no special map is select for the area.
+ 当该区域没有选择指定地图时，将选择备用地图服务。
+
+To see the coverage and maps, please click here
+ 要查看覆盖范围和地图，请单击此处
+
+To give feedback, please click here
+ 要提供反馈，请点击此处
+
+To change the hybrid map at current stage, please look at
+ 现阶段要更改混合地图，请查看
+
+How to change hybrid map
+ 如何更改混合地图
+
+Select a fallback map
+ 选择备用地图
+
+If you have good ideas, please
+ 如果你有好的意见，请
+
+let me know
+让我知道
