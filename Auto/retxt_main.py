@@ -391,12 +391,6 @@ with open (file, 'r+' , encoding='utf-8') as f1:
     text5 = re.sub(pattern181,'启用此选项后，替换插件将在您飞行时加载高清图像。 这将提供更好的加载速度。',text5)
     text5 = re.sub(pattern182,'仅在飞行时加载High LOD 图像',text5)
     text5 = re.sub(pattern183,'如果您仍然无法修复它或遇到其他问题,请',text5)
-<<<<<<< Updated upstream
-=======
-<<<<<<< Updated upstream
-    text5 = re.sub(pattern184,'让我知道',text5)
-=======
->>>>>>> Stashed changes
     text5 = re.sub(pattern184,'告诉我',text5)
     text5 = re.sub(pattern185,'混合地图是在飞行过程中自动选择适合该地区的地图服务器。',text5)
     text5 = re.sub(pattern186,'例如，在格陵兰岛使用 Bing 地图，在冰岛使用 Mapbox pro，在中国使用 China HD 2022，在阿拉斯加使用 ArcGIS。',text5)
@@ -414,18 +408,10 @@ with open (file, 'r+' , encoding='utf-8') as f1:
     text5 = re.sub(pattern198,'Mapbox 收到了超过',text5)
     text5 = re.sub(pattern199,' 的账单，',text5)
     text5 = re.sub(pattern200,'200美元',text5)
-<<<<<<< Updated upstream
-    text5 = re.sub(pattern201,'children:"清楚缓存"',text5)
-=======
     text5 = re.sub(pattern201,'children:"清除缓存"',text5)
->>>>>>> Stashed changes
     text5 = re.sub(pattern202,'输入 0 无限制',text5)
     text5 = re.sub(pattern203,'以提高加载速度并节省流量。',text5)
     text5 = re.sub(pattern204,'与原始 256*256 图像相比，',text5)
     text5 = re.sub(pattern205,'发送到 MSFS2020 的图像是 512*512 图像。',text5)
-<<<<<<< Updated upstream
-=======
->>>>>>> Stashed changes
->>>>>>> Stashed changes
     with open (file,'w',encoding='utf-8') as f2:
         f2.write(text5)
