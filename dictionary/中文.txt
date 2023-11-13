@@ -405,6 +405,9 @@ To give feedback, please click here
 To change the hybrid map at current stage, please look at
  现阶段要更改混合地图，请查看
 
+Please put the cache file into SSD. If you put it into HDD and the read/write performance is bad, the cache will be disabled automatically to prevent image loading issue.
+ 请将缓存文件放入SSD。 如果将其放入HDD并且读写性能较差，缓存将自动禁用以防止图像加载问题。
+
 How to change hybrid map
  如何更改混合地图
 
