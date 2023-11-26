@@ -32,7 +32,9 @@
 
 [7.4.3](https://github.com/derekhe/msfs2020-map-enhancement/releases/tag/v7.4.3) [已经汉化完毕] 
 
-[7.4.4](https://github.com/derekhe/msfs2020-map-enhancement/releases/tag/v7.4.3) [已经汉化完毕] 
+[7.4.4](https://github.com/derekhe/msfs2020-map-enhancement/releases/tag/v7.4.4) [已经汉化完毕] 
+
+[7.4.6](https://github.com/derekhe/msfs2020-map-enhancement/releases/tag/v7.4.6) [已经汉化完毕] 
 
 ***
 
@@ -41,9 +43,9 @@
 ### 快速导航
 [原版项目地址](https://github.com/derekhe/msfs2020-map-enhancement/) 
 
-[原版国内下载地址](https://gh.ddlc.top/https://github.com/derekhe/msfs2020-map-enhancement/releases/download/v7.4.4/MSFS2020-Map-Enhancement-Setup-7.4.4.exe) 
+[原版国内下载地址](https://gh.ddlc.top/https://github.com/derekhe/msfs2020-map-enhancement/releases/download/v7.4.6/MSFS2020-Map-Enhancement-Setup-7.4.6.exe) 
 
-[汉化国内下载地址](https://gh.con.sh/https://github.com/znc15/msfs2020-map-enhancement-Chinese/releases/download/7.4.4/app.asar) 
+[汉化国内下载地址](https://gh.con.sh/https://github.com/znc15/msfs2020-map-enhancement-Chinese/releases/download/7.4.6/app.asar) 
 
 [汉化国外下载地址](https://github.com/znc15/msfs2020-map-enhancement-Chinese/releases)
 
