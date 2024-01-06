@@ -457,4 +457,8 @@ The cache file can't be set to the rolling game file, they are different.
  缓存文件不能设置为游戏内滚动文件，这两个文件是不同的。
 
 Set the level of logging. Debug will log everything, Info will log only info and above. Don't use Debug unless you are debugging, it will impact performance.
+  设置日志记录级别，Debug 将会记录所有内容，Info 将仅调试有关信息，除非正在调试，否则不要使用 Debug，否则会影响性能。
+
+Request failed with status code 500
+ 请求失败，状态码 500
  
