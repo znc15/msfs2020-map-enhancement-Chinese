@@ -1,3 +1,5 @@
+官方已经出了汉化，本项目无效
+
 # MSFS2020-Map-Enhancement-Chinese <img src="https://github.com/znc15/msfs2020-map-enhancement-Chinese/blob/13d547ed3c1cf6105daaf30804841459c6399d84/png/icon.png?raw=true" width="30" height="30">
 ### MSFS2020-Map-Enhancement-Chinese 汉化版
 
